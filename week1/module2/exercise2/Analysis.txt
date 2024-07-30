@@ -1,0 +1,6 @@
+1) Time complexity comparison:
+
+Linear search: O(n) in the worst and average cases.
+Binary search: O(log n) in the worst and average cases
+
+2) Binary search is more efficient for this platform as it handles large data.

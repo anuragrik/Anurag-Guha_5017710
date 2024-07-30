@@ -1,0 +1,10 @@
+1) Time complexity analysis :
+
+Add : O(1) average case, O(n) worst case
+Update : O(1) average and worst case
+Delete : O(1) average and worst case
+Retrieve : O(1) average and worst case
+
+2) Optimizing further :
+
+Collision : In cases of collisions, we can consider implementing a custom hash function.

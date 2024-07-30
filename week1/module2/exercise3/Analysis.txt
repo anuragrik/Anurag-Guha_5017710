@@ -1,0 +1,10 @@
+1) Performance Comparison :
+
+Bubble Sort: Time complexity: O(n^2) in average and worst cases
+
+
+Quick Sort: Time complexity: O(n log n) on average, O(n^2) in worst case (rare with good pivot selection)
+
+2) Why Quick Sort over Bubble Sort -
+
+Quick sort is preferred over bubble sort because it has an average time complexity of O(n log n) compared to bubble sort's O(n^2), making it significantly faster for large datasets.

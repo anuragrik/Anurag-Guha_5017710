@@ -1,0 +1,3 @@
+Linear Search: Linear search, also known as sequential search, involves checking each element in the list one by one until the desired element is found or the end of the list is reached.
+
+Binary Search: Binary search requires the list to be sorted. It works by repeatedly dividing the search interval in half. If the target value is less than the middle element, the search continues in the lower half; otherwise, it continues in the upper half.

@@ -1,0 +1,10 @@
+1) Data structures & algorithms are essential in handling large inventories :
+
+- Proper storage: Proper data structures allow for organized storage of large data.
+- Fast retrieval: Well-chosen data structures and algorithms enable quick access.
+- Scalability: Using proper data structures and algorithms makes the system scalable.
+
+2) Suitable data structures for this problem include:
+
+ArrayList: Good for maintaining an ordered list of products.
+HashMap: Great for fast retrieval of products.

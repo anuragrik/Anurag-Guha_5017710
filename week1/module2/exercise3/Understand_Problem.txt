@@ -1,0 +1,7 @@
+a) Bubble Sort: Repeatedly steps through the list, compares adjacent elements and swaps them if they're in the wrong order.
+
+b) Insertion Sort: Builds the final sorted array one item at a time.
+
+c) Quick Sort: Uses a divide-and-conquer strategy. Picks a 'pivot' element and partitions the array around it.
+
+d) Merge Sort: Also uses divide-and-conquer. Divides the array into two halves, sorts them, and then merges the sorted halves.

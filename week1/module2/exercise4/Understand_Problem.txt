@@ -1,0 +1,8 @@
+Represantation of Arrays in memory:
+
+In Java, arrays are represented as contiguous blocks of memory where each element is stored at a specific index, and the array's reference points to the start of this block.
+
+Advantages of array:
+
+- Fast access to elements by index.
+- For simpler cases where dynamic allocation is not required.

@@ -1,0 +1,11 @@
+Time Complexity:
+
+- Add Operation: O(n) in the worst case to add at the end. O(1) if adding at beginning.
+- Search Operation: O(n)
+- Traverse Operation: O(n), visiting every node.
+- Delete Operation: O(n) in the worst case.
+
+Advantages of Linked Lists Over Arrays for Dynamic Data:
+
+- Dynamic Size: Linked lists can grow and shrink dynamically, as they are not fixed in size like arrays.
+- Efficient Insertions/Deletions: Inserting or deleting nodes can be more efficient than in arrays because it doesn’t require shifting elements. Only node references need to be updated.

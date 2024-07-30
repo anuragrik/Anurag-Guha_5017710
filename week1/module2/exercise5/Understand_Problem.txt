@@ -1,0 +1,3 @@
+1) Singly Linked List: Each node contains data and a reference (or link) to the next node in the sequence. The last node points to null.
+
+2) Doubly Linked List: Each node contains data and two references: one to the next node and one to the previous node. The first node's previous reference and the last node's next reference point to null.

@@ -1,0 +1,16 @@
+1) Time Complexity:
+
+- Add Operation: O(1) for adding an employee (assuming there is space in the array). If the array is full, it involves checking the size, which is O(1).
+- Search Operation: O(n) where n is the number of employees, as it requires iterating through the array.
+- Traverse Operation: O(n) where n is the number of employees, as it involves iterating through the array.
+- Delete Operation: O(n) where n is the number of employees, as it requires finding the employee and shifting elements to fill the gap.
+
+2) Limitations of Arrays:
+
+- Fixed Size
+- Inefficient Insertions/Deletions
+
+3) When to Use Arrays:
+
+- When the number of elements is known and fixed.
+- When fast access to elements by index is needed.

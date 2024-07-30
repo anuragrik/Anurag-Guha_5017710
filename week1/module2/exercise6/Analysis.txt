@@ -1,0 +1,9 @@
+Time Complexity:
+
+- Linear Search: Time Complexity: O(n)
+- Binary Search: Time Complexity: O(log n)
+
+When to Use Each Algorithm:
+
+- Linear Search: Suitable for small or unsorted datasets where the overhead of sorting for binary search is not justified.
+- Binary Search: When to Use: Best used with large, sorted datasets where faster search times are needed.

@@ -1,0 +1,5 @@
+1) Time Complexity: O(n) - The recursive function calculateFutureValueRecursive is called n times, where n is the number of periods. Each call performs a constant amount of work.
+
+2) Optimizing the Recursive Solution:
+
+- Memoization: Store the results of sub-problems to avoid redundant calculations.

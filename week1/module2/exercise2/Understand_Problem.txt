@@ -1,0 +1,19 @@
+1) Big O notation
+Big O notation is used to describe the upper bound or worst-case scenario of an algorithm's time complexity as the input size grows.
+
+It provides a way to express efficiency and comparison between algorithms.
+
+2) Search Operations:
+
+Best-case: The target element is found immediately (O(1) for both linear and binary search)
+
+Average-case: The target element is found after searching about half the elements
+
+For Linear search: O(n)
+For Binary search: O(log n)
+
+
+Worst-case: The target element is the last one searched or not present
+
+For Linear search: O(n)
+For Binary search: O(log n)
